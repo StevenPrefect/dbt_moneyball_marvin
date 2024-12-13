@@ -1,0 +1,1 @@
+Select * from MLB_PROJECT.SEASON_DATA."pitching_last_game"
