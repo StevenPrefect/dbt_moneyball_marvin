@@ -1,0 +1,1 @@
+select * from MLB_PROJECT.SEASON_DATA."batting_season_stats"
