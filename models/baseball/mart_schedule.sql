@@ -1,6 +1,6 @@
 WITH pitching_games AS (
   SELECT DISTINCT "game_id"
-  FROM {{ ref('mart_season_pitching_stats') }}
+  FROM {{ ref('mart_season_pitching_stats_by_game') }}
 )
 
 SELECT 
